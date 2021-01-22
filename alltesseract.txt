@@ -1,0 +1,42 @@
+pip list
+tesseract-ocr (0.0.1)                 - A Python wrapper for Tesseract
+tesseract-python (3.5.1)              - Self-contained Python module to Tesseract.
+tesseract-table-preprocessor (0.0.3)  - Preprocess scanned documents for Tesseract.
+tesseract (0.1.3)                     - Tesselation based Recovery of Amorphous halo Concentrations
+py-tesseract (0.3.0)                  - Remote code execution with the GA4GH Task Execution API
+tesseract-positional (0.1.1)          - Tool to save positional OCR data to a text file
+ocr-tesseract-wrapper (0.0.8)         - Tiny wrapper around pytesseract with image preprocessing and OCR configurations
+keios-protocol-tesseract (1.1.0)      - 
+pytesseract (0.3.6)                   - Python-tesseract is a python wrapper for Google's Tesseract-OCR
+pytessert (0.0.1)                     - Python-tesseract is a python wrapper for google's Tesseract-OCR
+pytessy (0.1.0)                       - Tesseract-OCR, faster
+TextExtract (1.2.0)                   - Tesseract Optimize is a optimize version of Tesseract to provide better text recognition.
+tesserpy (1.1.2)                      - Python interface to the Tesseract library
+pysseract (1.3.1)                     - Python binding to Tesseract API
+ReadBot (1.0)                         - A delightful tesseract OCR module
+tessy (0.5.1)                         - A Python wrapper for Tesseract-OCR.
+TesseractTrainer (0.1.1)              - A small framework taking over the manual tesseract training process described in the Tesseract Wiki
+pytesstrain (0.1.15)                  - Collection of utilities for Tesseract OCR training
+tightocr (0.4.4)                      - Thin and pleasant wrapper for Tesseract OCR.
+ruppell (0.0.6)                       - text extractor based in tesseract ocr
+pyslibtesseract (0.0.15)              - Integration of Tesseract for Python using a shared library
+tesserwrap (0.1.6)                    - Basic python bindings to the Tesseract C++ API
+findtext (0.1.0)                      - OCR, based on tesseract (tesserocr), with accuracy improvement
+piltesseract (1.0.2)                  - Image-to-text Tesseract command line wrapper.
+django-tesseractfield (0.0.2)         - A small app providing a tesseract field for django
+gpyocr (1.4)                          - Python wrapper for Tesseract OCR and Google Vision OCR
+pyocr (0.7.2)                         - A Python wrapper for OCR engines (Tesseract, Cuneiform, etc)
+djtesseract (0.0.6)                   - A small app providing a tesseract field for django 3.1.2
+receipt-parser2 (0.1.3)               - A supermarket receipt parser written in Python using tesseract OCR
+receipt-parser-core (0.1.3)           - A supermarket receipt parser written in Python using tesseract OCR
+pypdfocr (0.9.1)                      - Converts a scanned PDF into an OCR'ed pdf using Tesseract-OCR and Ghostscript
+autoocr (0.0.3)                       - A Python wrapper for cross platform tesseract OCR engine with multiple languages (e.g. Bangla)
+ocrd-fork-tesserocr (3.0.0rc2)        - A simple, Pillow-friendly, Python wrapper around tesseract-ocr API using Cython
+tesserocr (2.5.1)                     - A simple, Pillow-friendly, Python wrapper around tesseract-ocr API using Cython
+OCRUSREX (0.2.2)                      - OCRUSREX takes a PDF (either by path or as a file-like object) and makes it searchable using Tesseract 4. It has an enterprise-friendly license.
+easytextract (1.1.5)                  - Easy to use text extractor, from PDF, DOC, DOCX and other document types, using the awesome Textract, including if necessary using OCR (via Tesseract).
+OCyara (1.0.1)                        - A Yara rule engine that scans images for matches using Optical Character Recognition (OCR). See the Github page for more information about the Cython, Tesseract, and Leptonica prerequsites.
+pip search tesseract
+pip list
+pip show numpy
+pip freeze > requirements.txt
